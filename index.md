@@ -7,8 +7,8 @@
 [](/sample_page)
 
 ---
-[](/pdf/sample_presentation.pdf)
-
+[3-D Scatter Plots and Maps](https://npham25.github.io/html/ggplot2.html)
+<img src="images/ggplot2.png?raw=true"/>
 ---
 []()
 
