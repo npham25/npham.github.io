@@ -2,9 +2,9 @@
 
 ---
 
-### Academic Projects
+### Self Projects
 
-[Logistic Regression](/sample_page)
+[](/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -14,7 +14,7 @@
 
 ---
 
-### Category Name 2
+### Academic Projects
 
 - [Logistic Regression](https://npham25.github.io/html/Logistic-Regression.html)
 - [Ridge Regression](https://npham25.github.io/html/Ridge-regression.html)
