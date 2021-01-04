@@ -17,7 +17,9 @@
 ### Academic Projects
 
 - [Logistic Regression](https://npham25.github.io/html/Logistic-Regression.html)
+  <img src="images/logreg.png?raw=true"/>
 - [Ridge Regression](https://npham25.github.io/html/Ridge-regression.html)
+  <img src="images/ridgereg.png?raw=true"/>
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
