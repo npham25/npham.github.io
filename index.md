@@ -22,7 +22,8 @@
   <img src="images/ridgereg.png?raw=true"/>
 - [Time Series Analysis](https://npham25.github.io/html/Time-Series.html)
   <img src="images/ts.png?raw=true"/>
-- [Project 4 Title](http://example.com/)
+- [Markov Chain Monte Carlo (MCMC) Simulations](https://npham25.github.io/html/Simulations.html)
+  <img src="images/sim.png?raw=true"/>
 - [Project 5 Title](http://example.com/)
 
 ---
