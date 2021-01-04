@@ -24,7 +24,9 @@
   <img src="images/ts.png?raw=true"/>
 - [Markov Chain Monte Carlo (MCMC) Simulations](https://npham25.github.io/html/Simulations.html)
   <img src="images/sim.png?raw=true"/>
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](https://npham25.github.io/html/Bayesian.html)
+  <img src="images/bayesian2.png?raw=true"/>
+  <img src="images/bayesian.png?raw=true"/>
 
 ---
 
