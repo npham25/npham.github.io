@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Academic Projects
 
-[Project 1 Title](/sample_page)
+[Logistic Regression](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Logistic Regression](https://npham25.github.io/html/Logistic-Regression.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
