@@ -17,7 +17,7 @@
 ### Category Name 2
 
 - [Logistic Regression](https://npham25.github.io/html/Logistic-Regression.html)
-- [Project 2 Title](http://example.com/)
+- [Ridge Regression](https://npham25.github.io/html/Ridge-regression.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
