@@ -2461,7 +2461,7 @@ round(aic,0) %&gt;%
 </tbody>
 </table>
 <pre class="r"><code>pos &lt;- which(aic == min(aic), arr.ind = TRUE)</code></pre>
-<p>As we can see, the lowest AIC is -2758 which is the order 3 of AR and order 5 of MA. Here are estimated coefficients :</p>
+<p>As we can see, the lowest AIC is -2758 which is the order 3 of AR and order 6 of MA. Here are estimated coefficients :</p>
 <pre class="r"><code>model_2 &lt;- arima(ts_2, order=c(3,0,6))
 coef(model_2)</code></pre>
 <pre><code>##          ar1          ar2          ar3          ma1          ma2          ma3 
