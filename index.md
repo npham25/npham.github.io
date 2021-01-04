@@ -7,10 +7,10 @@
 [](/sample_page)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[](/pdf/sample_presentation.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
+[]()
 
 ---
 
@@ -24,7 +24,7 @@
   <img src="images/ts.png?raw=true"/>
 - [Markov Chain Monte Carlo (MCMC) Simulations](https://npham25.github.io/html/Simulations.html)
   <img src="images/sim.png?raw=true"/>
-- [Project 5 Title](https://npham25.github.io/html/Bayesian.html)
+- [Analyzing the Challenger Explosion Data Using Bayesian Methods](https://npham25.github.io/html/Bayesian.html)
   <img src="images/bayesian2.png?raw=true"/>
   <img src="images/bayesian.png?raw=true"/>
 
